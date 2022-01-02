@@ -7,6 +7,7 @@ The purpose of this project was to perform ETL process on a subset of Amazon rev
 
 ### Total Reviews
 - Vine Reviews = 35 vs Non-Vine Reviews = 4957
+
 ![Total_Reviews](/Images/Total_Reviews.PNG)
 
 ### Total 5 Star Reviews
@@ -23,4 +24,4 @@ non-Vine reviews.  However, our Vine subset of reviews amounted to only 35 revie
 
 Because our Vine review subset was less than 1% of our total reviews, an additional analysis we could use is to look at a greater percentage of Vine reviews.  Our subset was
 limited to those reviews that were deemed most helpful and this seemed to have particularly limited the Vine reviews.  The number of Vine reviews in the total subset was 248 
-but we only used 35 of the ones deemed most helpful.
+but we only used 35 of the ones deemed most helpful for this analysis.
